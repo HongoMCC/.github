@@ -1,10 +1,16 @@
 **文化祭来場者の皆様**: マイコン部の企画へのご来場ありがとうございました。部誌の内容は[コチラ](https://github.com/HongoMCC/2023_Reports/blob/master/マイコンHongoMagazine.pdf)からご覧いただけます！
 
 # Hongo-Micro-Computer-Club
-本郷中学校・高等学校　マイコン部
+本郷学園マイコン部
 
 ## About
-中1向けHSP講座等、様々なものをごちゃごちゃと格納するための垢です。
+東京都・巣鴨の中高一貫制男子校、本郷中学校・高等学校のマイコン部です。
+
+活動内容は **「およそ技術に関係すれば何をしてもよい」** 。
+
+プログラミングや電子工作はもちろん、音響・映像製作・技術史など多種多様な趣味や嗜好を持つ部員が日夜部室にて跳梁跋扈しています。
+
+GitHubでは、中1向けHSP講座等、様々なものをごちゃごちゃと格納しています。
 
 ## 見に来た方へ
 この垢では、主に部内向けのドキュメントやソースを作っています。
@@ -15,5 +21,5 @@
 部員の方で、まだこのorgに入られていない方は[この人](https://github.com/UHAsikakutou)とか[この人](https://github.com/ctes091x)に聞いてください。
 
 ---
-本郷中学校・高等学校　マイコン部  
-Copyright(c) Hongo Micro Computer Club 2022 All rights reserved.
+本郷学園マイコン部  
+Copyright(c) Hongo MicroComputer Club 2022-2024 All rights reserved.
